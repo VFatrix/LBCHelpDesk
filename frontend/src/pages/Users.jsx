@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 
 import userService from "../services/userService";
-import UserFormModal from "../components/users/UserFormModal";
+import UserFormModal from "../components/Users/UserFormModal";
 import ResetPasswordModal from "../components/Users/ResetPasswordModal";
 
 function Users() {
